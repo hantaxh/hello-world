@@ -1,4 +1,4 @@
 # hello-world
 
 Hi human
-i'm human but not likes one
+i'm human but unlike one
